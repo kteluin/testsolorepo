@@ -1,0 +1,4330 @@
+{
+	"lightLevel": 0.71653544902801514,
+	"houseSize": "Large",
+	"interiorFixture": [
+		{
+			"level": "",
+			"type": "District",
+			"name": "Lavender Beds",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "Basement",
+			"type": "Floor",
+			"name": "Glade Flooring",
+			"itemId": 6459,
+			"color": ""
+		},
+		{
+			"level": "Basement",
+			"type": "Wall",
+			"name": "Riviera Flora Interior Wall",
+			"itemId": 8007,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Light",
+			"name": "Glade Chandelier",
+			"itemId": 6466,
+			"color": ""
+		},
+		{
+			"level": "Main",
+			"type": "Light",
+			"name": "Glade Chandelier",
+			"itemId": 6466,
+			"color": ""
+		},
+		{
+			"level": "Basement",
+			"type": "Light",
+			"name": "Glade Pendant Lamp",
+			"itemId": 6464,
+			"color": ""
+		},
+		{
+			"level": "Upper Floor",
+			"type": "Light",
+			"name": "Glade Pendant Lamp",
+			"itemId": 6464,
+			"color": ""
+		},
+		{
+			"level": "",
+			"type": "",
+			"name": "",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "",
+			"type": "",
+			"name": "",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "",
+			"type": "",
+			"name": "",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Floor",
+			"name": "Hingan Flooring",
+			"itemId": 20718,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Wall",
+			"name": "Varied Wood Interior Wall",
+			"itemId": 32254,
+			"color": ""
+		},
+		{
+			"level": "Upper Floor",
+			"type": "Side Door",
+			"name": "Empty",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Side Door",
+			"name": "Empty",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "Upper Floor",
+			"type": "Floor",
+			"name": "Highland Flooring",
+			"itemId": 36888,
+			"color": ""
+		},
+		{
+			"level": "Upper Floor",
+			"type": "Wall",
+			"name": "Glade Interior Wall",
+			"itemId": 6456,
+			"color": ""
+		}
+	],
+	"exteriorScale": 100,
+	"exteriorFixture": [
+		{
+			"level": "",
+			"type": "Roof",
+			"name": "Riviera Mansion Roof (Wood)",
+			"itemId": 6353,
+			"color": "A8817300"
+		},
+		{
+			"level": "",
+			"type": "Fence",
+			"name": "Riviera Stone Fence",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "",
+			"type": "Exterior Wall",
+			"name": "Riviera Mansion Wall (Wood)",
+			"itemId": 6380,
+			"color": "BB9F7000"
+		},
+		{
+			"level": "",
+			"type": "",
+			"name": "",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "",
+			"type": "",
+			"name": "",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "",
+			"type": "",
+			"name": "",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "",
+			"type": "Door",
+			"name": "Riviera Wooden Door",
+			"itemId": 6410,
+			"color": "BB9F7000"
+		},
+		{
+			"level": "",
+			"type": "Window",
+			"name": "Riviera Bay Window",
+			"itemId": 0,
+			"color": ""
+		}
+	],
+	"exteriorFurniture": [],
+	"metaData":
+	{
+		"version": 108
+	},
+	"interiorScale": 100,
+	"interiorFurniture": [
+		{
+			"itemId": 28987,
+			"name": "Open Book",
+			"transform":
+			{
+				"location": [ -1924.7547294354511, -928.61242130642324, 790.63506458923484 ],
+				"rotation": [ 0, 0, -0.83388582206716821, 0.55193698531205815 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 24510,
+			"name": "Four Lords",
+			"transform":
+			{
+				"location": [ -1399.6090145773651, -1200.0048234869339, 959.35843117559614 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6659,
+			"name": "Lominsan Cityscape",
+			"transform":
+			{
+				"location": [ 1311.6490911514766, 468.09184169006602, 896.1515311371943 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21827,
+			"name": "Mounted Cupboard",
+			"transform":
+			{
+				"location": [ 2000.0041390874658, 969.08441382288845, 955.46619780262449 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "4F2D1FFF"
+			}
+		},
+		{
+			"itemId": 21834,
+			"name": "Chirurgeon's Essentials",
+			"transform":
+			{
+				"location": [ -1572.0378451738434, -522.53775092226147, 807.35836131703195 ],
+				"rotation": [ -0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7984,
+			"name": "Double Feather Bed",
+			"transform":
+			{
+				"location": [ -1842.926769573585, -557.63423950936738, 700.00957408270699 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 15968,
+			"name": "Stuffed Brina",
+			"transform":
+			{
+				"location": [ 1976.3760395213485, 1051.6559862419697, 919.21253229699653 ],
+				"rotation": [ 0, 0, 0.85264016435409218, 0.52249856471594891 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 15151,
+			"name": "Chirurgeon's Curtain",
+			"transform":
+			{
+				"location": [ 999.13680089907621, 1000.4140506152889, 700.00972410883389 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "1E1E1EFF"
+			}
+		},
+		{
+			"itemId": 37373,
+			"name": "Imitation Highland Window",
+			"transform":
+			{
+				"location": [ 1752.6872248223513, 1200.0096842247353, 941.18041225771253 ],
+				"rotation": [ 1.0664418681471771e-07, -5.7010523523357508e-18, 0.99999999999999412, 5.3458632135670488e-11 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "451511FF"
+			}
+		},
+		{
+			"itemId": 23895,
+			"name": "Towels",
+			"transform":
+			{
+				"location": [ 1568.4316791570079, 534.40263811290822, 827.53401868568972 ],
+				"rotation": [ 0, 0, -0.38268343236508978, 0.92387953251128663 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 35574,
+			"name": "Wooden Bin",
+			"transform":
+			{
+				"location": [ 1920.628727365985, 813.60016898881622, 700 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "836969FF"
+			}
+		},
+		{
+			"itemId": 7086,
+			"name": "Ahriman Vase",
+			"transform":
+			{
+				"location": [ 1317.5081854976613, 540.93048949425577, 782.19520334130732 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 27283,
+			"name": "Potted Orange Tree",
+			"transform":
+			{
+				"location": [ 1815.0227710494719, 520.87291326560126, 700.00889445113955 ],
+				"rotation": [ 0, 0, 0.52621392365187047, 0.85035222499556229 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 8806,
+			"name": "Manor Sofa",
+			"transform":
+			{
+				"location": [ -1245.2267324870184, -533.87247076356175, 700.00368974396076 ],
+				"rotation": [ 0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "ACA8A2FF"
+			}
+		},
+		{
+			"itemId": 15976,
+			"name": "Combed Wool Rug",
+			"transform":
+			{
+				"location": [ -1238.9185225242024, -642.49210684739614, 700.00956628776203 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "112944FF"
+			}
+		},
+		{
+			"itemId": 15967,
+			"name": "Stuffed Calca",
+			"transform":
+			{
+				"location": [ 1982.4956373092327, 884.47622904155298, 920.47157037170587 ],
+				"rotation": [ 0, 0, 0.42656873990145905, 0.90445514545436745 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 27288,
+			"name": "Crystarium Wall Chronometer",
+			"transform":
+			{
+				"location": [ 1869.6379000756679, 467.99772771565046, 975.23085696709506 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 8806,
+			"name": "Manor Sofa",
+			"transform":
+			{
+				"location": [ -1109.5656199399796, -679.17488662422352, 699.99687941979437 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "ACA8A2FF"
+			}
+		},
+		{
+			"itemId": 6577,
+			"name": "Glade Partition",
+			"transform":
+			{
+				"location": [ 1802.8108392538818, 442.9948481616625, 699.99279535850758 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6577,
+			"name": "Glade Partition",
+			"transform":
+			{
+				"location": [ 1620.3953413303709, 442.73696678824246, 699.99611758905996 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6577,
+			"name": "Glade Partition",
+			"transform":
+			{
+				"location": [ 1221.8544731150796, 443.08134058296497, 700.00218068420975 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6621,
+			"name": "Walnut Cartonnier",
+			"transform":
+			{
+				"location": [ 1317.9433956885057, 546.71143934634881, 699.99536584190162 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "836969FF"
+			}
+		},
+		{
+			"itemId": 8778,
+			"name": "South Seas Couch",
+			"transform":
+			{
+				"location": [ 1170.1203485262899, 616.77902032139832, 699.99483455706627 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6649,
+			"name": "Ink & Quill",
+			"transform":
+			{
+				"location": [ -1948.7920115323745, -1029.4060287956186, 793.71764433700548 ],
+				"rotation": [ 0, 0, 0.79068957374384341, 0.61221728003444931 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 0,
+			"name": "Hydaelyn,as We Know Her",
+			"transform":
+			{
+				"location": [ -1997.7016395997562, -976.27519611934338, 962.46569554075768 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6660,
+			"name": "Gridanian Cityscape",
+			"transform":
+			{
+				"location": [ 1147.3687361021209, 468.08364144591775, 979.74466728643097 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6548,
+			"name": "Ash Cabinet",
+			"transform":
+			{
+				"location": [ 1628.6541901810115, 527.67740536065651, 699.99866303519707 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "644216FF"
+			}
+		},
+		{
+			"itemId": 8777,
+			"name": "South Seas Armchair",
+			"transform":
+			{
+				"location": [ 1413.1368168613205, 550.52748032203101, 700.00128517142764 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 35577,
+			"name": "Pendant Wall Light",
+			"transform":
+			{
+				"location": [ -186.3059064419638, 1400.000008322794, 1235.7980273557166 ],
+				"rotation": [ 1.208418467513157e-07, -7.3994290413526885e-24, 0.99999999999999256, 6.1232339957367217e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 35577,
+			"name": "Pendant Wall Light",
+			"transform":
+			{
+				"location": [ 191.40849002791967, 1402.370233401605, 1237.0429129347565 ],
+				"rotation": [ 0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28987,
+			"name": "Open Book",
+			"transform":
+			{
+				"location": [ -1417.1960025111989, -5.6731484221294686, 149.83087621544249 ],
+				"rotation": [ 0, 0, -0.8115739819650124, 0.58424966563743441 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 39406,
+			"name": "Hannish Table Lamp",
+			"transform":
+			{
+				"location": [ -1958.4302843841197, -1083.3237979025866, 789.90552194922464 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7965,
+			"name": "Classified Documents",
+			"transform":
+			{
+				"location": [ -1916.9966511166756, -990.32383429408537, 789.13241987616152 ],
+				"rotation": [ 0, 0, -0.59832460057065895, 0.80125381269106077 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28638,
+			"name": "Lakeland Table",
+			"transform":
+			{
+				"location": [ -1943.7083362598476, -982.77997936959173, 699.9959593456033 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "2B2923FF"
+			}
+		},
+		{
+			"itemId": 20760,
+			"name": "Tomato King Flower Vase",
+			"transform":
+			{
+				"location": [ -1919.9964431703177, -714.29414636024694, 779.36643439231671 ],
+				"rotation": [ 0, 0, -0.40274668985873724, 0.91531147911944699 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 35566,
+			"name": "Candlelit Sundries",
+			"transform":
+			{
+				"location": [ -1887.7470269908138, -735.57791306073955, 780.96858481130937 ],
+				"rotation": [ 0, 0, -0.54097447136799381, 0.84103901296439254 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6671,
+			"name": "Wall Chronometer",
+			"transform":
+			{
+				"location": [ -1670.4696440458913, -441.8146543775826, 944.34661559942538 ],
+				"rotation": [ 0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6521,
+			"name": "Knight Captain's Chair",
+			"transform":
+			{
+				"location": [ -1784.3559565552061, -972.67796504350565, 700 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "898784FF"
+			}
+		},
+		{
+			"itemId": 7971,
+			"name": "Encyclopedia Eorzea",
+			"transform":
+			{
+				"location": [ -1716.2939648523736, -1159.8596462115404, 848.89473769139056 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 24521,
+			"name": "Potion Rack",
+			"transform":
+			{
+				"location": [ -1720.1420544667003, -1175.2230806540406, 701.15441477985371 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "898784FF"
+			}
+		},
+		{
+			"itemId": 15151,
+			"name": "Chirurgeon's Curtain",
+			"transform":
+			{
+				"location": [ -1772.9390225178479, -808.22915815242141, 699.99591054488633 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 15151,
+			"name": "Chirurgeon's Curtain",
+			"transform":
+			{
+				"location": [ -1483.2221660506573, -655.73880230155135, 700.00630166862379 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6621,
+			"name": "Walnut Cartonnier",
+			"transform":
+			{
+				"location": [ -1904.6093025437669, -731.42274750639558, 699.99472461971925 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "2B2923FF"
+			}
+		},
+		{
+			"itemId": 6540,
+			"name": "Flame Desk",
+			"transform":
+			{
+				"location": [ -1576.5981443468722, -508.93386328986713, 700.00857900789083 ],
+				"rotation": [ 0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 39380,
+			"name": "Faerie Door",
+			"transform":
+			{
+				"location": [ -1999.7666185838541, -713.57001680503811, 944.83355654825118 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6621,
+			"name": "Walnut Cartonnier",
+			"transform":
+			{
+				"location": [ -1087.9550884654998, -517.15953117363199, 699.99762810738093 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "2B2923FF"
+			}
+		},
+		{
+			"itemId": 6645,
+			"name": "Potted Azalea",
+			"transform":
+			{
+				"location": [ -1087.9550884654998, -517.15953117363199, 785.26771707654439 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 8812,
+			"name": "Adventurers' Guild Aduyses",
+			"transform":
+			{
+				"location": [ -1219.1219040967437, -443.8576342858625, 901.47919796472547 ],
+				"rotation": [ 0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6646,
+			"name": "Potted Spider Plant",
+			"transform":
+			{
+				"location": [ -1124.7635600903807, -804.54033270846571, 699.9960510132712 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7094,
+			"name": "Carbuncle Lantern",
+			"transform":
+			{
+				"location": [ -857.71625569302023, 659.87658612128257, 151.16912841796875 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 9464,
+			"name": "Level 4 Aetherial Wheel Stand",
+			"transform":
+			{
+				"location": [ -1005.8269878659656, 790.8081384085591, 0 ],
+				"rotation": [ 0, 0, 0.71933980033865141, 0.69465837045899725 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 15974,
+			"name": "Mounted Bookshelf",
+			"transform":
+			{
+				"location": [ -1027.3528034901053, 423.09501659554036, 0.0073250315798681423 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 8806,
+			"name": "Manor Sofa",
+			"transform":
+			{
+				"location": [ -1750.4469409195833, 715.1796379367288, -0.0037110155354973355 ],
+				"rotation": [ 0, 0, 0.0654031292301432, 0.99785892323860348 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "E4DFD0FF"
+			}
+		},
+		{
+			"itemId": 6679,
+			"name": "Oasis Rug",
+			"transform":
+			{
+				"location": [ -1704.6712292379143, 891.17825252080479, 0.0089925746884534606 ],
+				"rotation": [ 0, 0, -0.39073112848927471, 0.92050485345243982 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 8806,
+			"name": "Manor Sofa",
+			"transform":
+			{
+				"location": [ -1517.0094645705469, 946.45825352454608, 0.00073278596943876354 ],
+				"rotation": [ 0, 0, 0.63270532856251605, 0.77439264408218578 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "E4DFD0FF"
+			}
+		},
+		{
+			"itemId": 37374,
+			"name": "House Fortemps Fireplace",
+			"transform":
+			{
+				"location": [ -1839.0946541847068, 1041.8198816999941, -0.0064279765224353148 ],
+				"rotation": [ 0, 0, -0.92718385456678731, 0.37460659341591201 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 8805,
+			"name": "Wall Lantern",
+			"transform":
+			{
+				"location": [ -1403.373841585123, 1200.0201208416784, 359.50361240556055 ],
+				"rotation": [ -0, 0, -0.99999999880767632, 4.8832850769257929e-05 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 15974,
+			"name": "Mounted Bookshelf",
+			"transform":
+			{
+				"location": [ -1040, 1140, -0.0011450081680097418 ],
+				"rotation": [ 0, 0, 0.99984769515639138, 0.017452406437283598 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ -788.53194932562872, 602.11370759273711, -0.00022461231932132709 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/StormBlueInteriorWall/StormBlueInteriorWall.StormBlueInteriorWall"
+			}
+		},
+		{
+			"itemId": 32226,
+			"name": "Wood Slat Partition",
+			"transform":
+			{
+				"location": [ -798.077960039152, -278.29522613392896, -0.0061322561579238155 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20310,
+			"name": "Imitation Square Window",
+			"transform":
+			{
+				"location": [ -1999.9940401961585, 141.0466703986707, 394.79061021055423 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20310,
+			"name": "Imitation Square Window",
+			"transform":
+			{
+				"location": [ -1999.9939367576508, 141.04368863651581, 134.22047671354511 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20310,
+			"name": "Imitation Square Window",
+			"transform":
+			{
+				"location": [ -2000.0085876819207, -136.41888457173553, 394.79911039759725 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20310,
+			"name": "Imitation Square Window",
+			"transform":
+			{
+				"location": [ -1999.9998469714646, -136.58800211142494, 134.21387801926267 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 22552,
+			"name": "Assorted Candles",
+			"transform":
+			{
+				"location": [ -789.90935090898063, 971.90495896301434, 0 ],
+				"rotation": [ 0, 0, 0.71018537562328543, 0.70401472445596835 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 17965,
+			"name": "Stuffed Edda",
+			"transform":
+			{
+				"location": [ -874.656131737701, 789.9264962587589, 327.18769388828804 ],
+				"rotation": [ 0, 0, 0.80385686061721839, 0.59482278675133982 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6668,
+			"name": "Nymian Wall Lantern",
+			"transform":
+			{
+				"location": [ -812.73568767900417, 1015.4093206584172, 410.04535896283005 ],
+				"rotation": [ 0, -0, 0.70710674915499705, 0.70710681321809665 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 32226,
+			"name": "Wood Slat Partition",
+			"transform":
+			{
+				"location": [ -798.077960039152, 277.64276343505674, -0.0053720835310254638 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21851,
+			"name": "Coat Hanger",
+			"transform":
+			{
+				"location": [ -678.96230455178124, 419.91919875844803, 1.002304791563942 ],
+				"rotation": [ 0, 0, -0.92387953251128663, 0.38268343236508984 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30389,
+			"name": "Stage Curtain",
+			"transform":
+			{
+				"location": [ -1963.3556176569361, -381.30270358523296, 312.67208762520357 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "181937FF"
+			}
+		},
+		{
+			"itemId": 30389,
+			"name": "Stage Curtain",
+			"transform":
+			{
+				"location": [ -1963.3549425770184, 353.10974100694114, 312.66237326628175 ],
+				"rotation": [ 0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "181937FF"
+			}
+		},
+		{
+			"itemId": 35556,
+			"name": "Shoe Rack",
+			"transform":
+			{
+				"location": [ -218.16732215067785, 1133.8373252151146, 0.0050060566760331184 ],
+				"rotation": [ -0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28995,
+			"name": "Apron Rack",
+			"transform":
+			{
+				"location": [ -272.07260352405154, 891.06373579061335, 124.74892796554887 ],
+				"rotation": [ 0.00031062370803761616, 0.00031059335445227933, -0.7071067129632036, 0.70710671296986938 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 22551,
+			"name": "Cozy Leather Shoes",
+			"transform":
+			{
+				"location": [ -298.09558512171037, 1056.5380099188772, 0 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6577,
+			"name": "Glade Partition",
+			"transform":
+			{
+				"location": [ 1781.5165515130489, 389.82125694900913, 0.0044748538755555031 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ -1027.0655896385501, 399.69729494240323, -0.0048994198630803575 ],
+				"rotation": [ 0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/VariedWoodInteriorWall/VariedWoodInteriorWall.VariedWoodInteriorWall"
+			}
+		},
+		{
+			"itemId": 6680,
+			"name": "Oasis Argyle Rug",
+			"transform":
+			{
+				"location": [ -1015.5679678100291, 790.42702850048829, -0.0053199926997531677 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 33283,
+			"name": "Low Bookshelf",
+			"transform":
+			{
+				"location": [ -850.11317808493129, 800.7511211734228, 0.0056602930906868298 ],
+				"rotation": [ 0, 0, 0.70401472445596835, 0.71018537562328543 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "4F2D1FFF"
+			}
+		},
+		{
+			"itemId": 15970,
+			"name": "Mounted Box Shelf",
+			"transform":
+			{
+				"location": [ -813.54022049166838, 790.77245520771646, 366.34904329279703 ],
+				"rotation": [ 0, -0, 0.70710674915499705, 0.70710681321809665 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6668,
+			"name": "Nymian Wall Lantern",
+			"transform":
+			{
+				"location": [ -813.54146525246233, 543.78154368880212, 406.45712135817001 ],
+				"rotation": [ 0, -0, 0.70710674915499705, 0.70710681321809665 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7094,
+			"name": "Carbuncle Lantern",
+			"transform":
+			{
+				"location": [ -855.00553439724149, 935.679931640625, 151.89411926269531 ],
+				"rotation": [ 0, -0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28987,
+			"name": "Open Book",
+			"transform":
+			{
+				"location": [ -851.54898075612937, 797.1177110812057, 151.57801267853975 ],
+				"rotation": [ 0, 0, 0.85491187067294705, 0.51877325816052056 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7084,
+			"name": "Lalafellin Step Stool",
+			"transform":
+			{
+				"location": [ -957.63254256657137, 546.25065767911201, -0.0093767350464794147 ],
+				"rotation": [ 0, 0, -0.91706007438512394, 0.39874906892524631 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7109,
+			"name": "Manor Music Stool",
+			"transform":
+			{
+				"location": [ -1168.9537037684313, 1044.4439582863642, -0.0026792731292425232 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "781A1AFF"
+			}
+		},
+		{
+			"itemId": 20759,
+			"name": "Onion Prince Flower Vase",
+			"transform":
+			{
+				"location": [ -854.85520132734234, 872.40672879627732, 319.93093569917767 ],
+				"rotation": [ 0, 0, 0.85491187067294705, 0.51877325816052056 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30422,
+			"name": "Slanted Wall",
+			"transform":
+			{
+				"location": [ -365.16051936488913, 993.40839454300465, 1.0753030670866621 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 23892,
+			"name": "Verdant Partition",
+			"transform":
+			{
+				"location": [ -2.6041481380155602, -1517.465804735903, 499.66125111982171 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 23892,
+			"name": "Verdant Partition",
+			"transform":
+			{
+				"location": [ -259.16246858433584, -1452.0126617499466, 499.66630027520733 ],
+				"rotation": [ 0, 0, -0.38268343236508978, 0.92387953251128663 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7983,
+			"name": "Riviera Doormat",
+			"transform":
+			{
+				"location": [ 1511.4421726170981, -319.06930395928725, 699.99619991676798 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7979,
+			"name": "Planter Partition",
+			"transform":
+			{
+				"location": [ -978.99742409402438, -262.52240932446801, 0.0075594655669226967 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30389,
+			"name": "Stage Curtain",
+			"transform":
+			{
+				"location": [ 1001.1549006358827, 372.81866448027142, 845.26870963231283 ],
+				"rotation": [ 0, -0, 0.999999999999999, 4.2915270509650471e-08 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "2F3851FF"
+			}
+		},
+		{
+			"itemId": 21106,
+			"name": "Blank Riviera Partition",
+			"transform":
+			{
+				"location": [ 1879.4685607735078, 399.22813008227513, 699.99482432208538 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/LilyHillsInteriorWall/LilyHillsInteriorWall.LilyHillsInteriorWall"
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ -1379.1905009743002, -406.29298686871817, -0.002840112683059396 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/VariedWoodInteriorWall/VariedWoodInteriorWall.VariedWoodInteriorWall"
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ 820, 602.12200709557567, 0.004068612955626303 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/StormBlueInteriorWall/StormBlueInteriorWall.StormBlueInteriorWall"
+			}
+		},
+		{
+			"itemId": 30422,
+			"name": "Slanted Wall",
+			"transform":
+			{
+				"location": [ 984.9257449080784, 369.3758785704058, -9.7048009368011847 ],
+				"rotation": [ 0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 6659,
+			"name": "Lominsan Cityscape",
+			"transform":
+			{
+				"location": [ -1291.7730847134719, -381.28693670477469, 205.62616520782757 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6559,
+			"name": "Company Chest",
+			"transform":
+			{
+				"location": [ 636.58849652457559, 635.32652467385719, 0.00423004568381013 ],
+				"rotation": [ 0, 0, 0.92387953251128674, 0.38268343236508962 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ 684.06049248466172, 673.84604653277677, -0.0020975388687491593 ],
+				"rotation": [ 0, 0, 0.92387953251128663, 0.38268343236508984 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/StormBlueInteriorWall/StormBlueInteriorWall.StormBlueInteriorWall"
+			}
+		},
+		{
+			"itemId": 22542,
+			"name": "Crossed Halberds",
+			"transform":
+			{
+				"location": [ 663.80790828826844, 658.76004846248406, 302.80304634957872 ],
+				"rotation": [ 0, -0, 0.92387953251128663, 0.38268343236508984 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20754,
+			"name": "Shinryu's Wing",
+			"transform":
+			{
+				"location": [ 595.01670601615069, 1291.6664042142272, 1042.7825593077375 ],
+				"rotation": [ 0, 0, 0.96592582628906842, 0.25881904510252079 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ -1082.1759799380916, -615.79979297253817, -0.0025512031153155294 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/VariedWoodInteriorWall/VariedWoodInteriorWall.VariedWoodInteriorWall"
+			}
+		},
+		{
+			"itemId": 27300,
+			"name": "Titania Shadow Box",
+			"transform":
+			{
+				"location": [ -595.01561772807872, 1291.6640067129945, 1042.7825927734375 ],
+				"rotation": [ -0, 0, -0.96592582628906842, 0.25881904510252079 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ 606.56732111505141, 1313.8717015628984, 700.00476332524988 ],
+				"rotation": [ 1.0828842335331695e-10, 1.4256545687845027e-11, 0.96592582628906831, 0.25881904510252052 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/AlpineInnerWall/AlpineInnerWall.AlpineInnerWall"
+			}
+		},
+		{
+			"itemId": 33282,
+			"name": "Crystarium Wardrobe",
+			"transform":
+			{
+				"location": [ -695.37139989356899, 601.79264437249753, 0.0097611461680848013 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7064,
+			"name": "Summoning Bell",
+			"transform":
+			{
+				"location": [ 376.5495427449456, 666.10823221535873, 0.0060688067013276049 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7975,
+			"name": "Potted Dragon Tree",
+			"transform":
+			{
+				"location": [ 1904.2153602945334, 299.52990264124901, 0.0090212049907647217 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 8814,
+			"name": "Oasis Doormat",
+			"transform":
+			{
+				"location": [ -1308.6104499714279, 2.2717070585052905, -0.0030680762096246834 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 39410,
+			"name": "Infernal Archfiend Cloak",
+			"transform":
+			{
+				"location": [ -196.86060644362209, 1400.0056207784596, 968.10559780245603 ],
+				"rotation": [ 2.2537565563806257e-11, -2.8467461408545242e-18, 0.99999999999999201, 1.2631116403389083e-07 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6541,
+			"name": "Message Book Stand",
+			"transform":
+			{
+				"location": [ 424.07554911201436, 430.05189108326329, 86.415641023346097 ],
+				"rotation": [ 0, 0, 0.92387953251128663, 0.38268343236508984 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 32224,
+			"name": "Swag Valance",
+			"transform":
+			{
+				"location": [ 664.71775116850063, 657.86030058316237, 217.47459989525527 ],
+				"rotation": [ 0, -0, 0.92387951517593581, 0.38268347421632615 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "ACA8A2FF"
+			}
+		},
+		{
+			"itemId": 6619,
+			"name": "Manor Desk",
+			"transform":
+			{
+				"location": [ 462.65088295131977, 465.75716802656996, 0.0098913033279424776 ],
+				"rotation": [ 0, 0, 0.92387953251128663, 0.38268343236508984 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ -573.4409577547608, 809.99648801001024, 0.0036452744237733476 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/StormBlueInteriorWall/StormBlueInteriorWall.StormBlueInteriorWall"
+			}
+		},
+		{
+			"itemId": 35562,
+			"name": "Round Wooden Loft",
+			"transform":
+			{
+				"location": [ 652.31819684295499, 639.0110009445948, 534.78120354273688 ],
+				"rotation": [ -0.00076834121225490459, 0.00031830151880772519, 0.92387921301058351, 0.38268330000519851 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3F3329FF"
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ -787.73525794338605, 989.77144527061068, -0.003885747629942404 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/VariedWoodInteriorWall/VariedWoodInteriorWall.VariedWoodInteriorWall"
+			}
+		},
+		{
+			"itemId": 7958,
+			"name": "Riviera Wall Shelf",
+			"transform":
+			{
+				"location": [ -1404.5189854701148, 713.67886861070042, 889.94336672675661 ],
+				"rotation": [ 0, -0, 0.999999999999999, 4.2915270509650471e-08 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 9719,
+			"name": "Oriental Bathtub",
+			"transform":
+			{
+				"location": [ -1743.4978768512578, -18.859857312427167, 700 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ -1225.0935381293702, -418.33956469396406, 700.00202863200252 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/GladeInteriorWall/GladeInteriorWall.GladeInteriorWall"
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ -1405.5519035314655, -418.85352491667425, 700.00635259429441 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/GladeInteriorWall/GladeInteriorWall.GladeInteriorWall"
+			}
+		},
+		{
+			"itemId": 15147,
+			"name": "Hat Stand",
+			"transform":
+			{
+				"location": [ 1084.8846660697313, 1126.1705599577463, 700.00683411564387 ],
+				"rotation": [ 0, 0, -0.92387953251128663, 0.38268343236508984 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ -1787.5447115869208, -416.81466581290971, 699.99676031744389 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/GladeInteriorWall/GladeInteriorWall.GladeInteriorWall"
+			}
+		},
+		{
+			"itemId": 7979,
+			"name": "Planter Partition",
+			"transform":
+			{
+				"location": [ -920.37722040287974, -814.31536327816525, 0.0056122195623796792 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28639,
+			"name": "Leather Sofa",
+			"transform":
+			{
+				"location": [ -814.69004340665344, -615.19913639708147, 0.007401485436527017 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "1E1E1EFF"
+			}
+		},
+		{
+			"itemId": 21851,
+			"name": "Coat Hanger",
+			"transform":
+			{
+				"location": [ 1166.5418384402158, 1120.5505152389185, 704.83936378246824 ],
+				"rotation": [ -0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6680,
+			"name": "Oasis Argyle Rug",
+			"transform":
+			{
+				"location": [ 1252.8232983119249, 638.8873299270582, 700.00191399971345 ],
+				"rotation": [ 0, 0, 0.38268343236509078, 0.92387953251128629 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 15777,
+			"name": "Tier 3 Aquarium",
+			"transform":
+			{
+				"location": [ -969.00241972156778, -614.07719074966383, 0 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 8815,
+			"name": "Large Woven Rug",
+			"transform":
+			{
+				"location": [ -1679.8401703977745, 5.3975837944576259, -0.0020423483967448967 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6623,
+			"name": "Glade Sideboard",
+			"transform":
+			{
+				"location": [ -1733.4435414361931, 12.309445736629794, 0.0098012140883135968 ],
+				"rotation": [ 0, 0, 0.71018537562328543, 0.70401472445596835 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 12110,
+			"name": "Triple Triad Board",
+			"transform":
+			{
+				"location": [ -1707.1248060115508, 12.895008219775372, 68.535047700947501 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 33278,
+			"name": "Hand-poured Coffee",
+			"transform":
+			{
+				"location": [ -1682.1182467737622, 76.885019818103856, 68.416884441389527 ],
+				"rotation": [ 0, 0, 0.47331966718484458, 0.88089073820538477 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7979,
+			"name": "Planter Partition",
+			"transform":
+			{
+				"location": [ -1916.111407816358, 283.26469323208545, 0.0053031846245521 ],
+				"rotation": [ 0, 0, 0.71325044915418156, 0.70090926429985101 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6644,
+			"name": "Potted Axilflower",
+			"transform":
+			{
+				"location": [ -1424.1391390570323, -132.38836998383044, 131.23057917222883 ],
+				"rotation": [ 0, 0, 0.021814885034561166, 0.99976202707990924 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 37364,
+			"name": "Simple Arched Window",
+			"transform":
+			{
+				"location": [ 1999.9914609203279, -190.0964387405472, 804.81438844512945 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6535,
+			"name": "Manor Couch",
+			"transform":
+			{
+				"location": [ -1859.8005686003573, -0.0083437603656619768, 0.00026581646878978595 ],
+				"rotation": [ 0, 0, -0.70401472445596835, 0.71018537562328543 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "E4DFD0FF"
+			}
+		},
+		{
+			"itemId": 15151,
+			"name": "Chirurgeon's Curtain",
+			"transform":
+			{
+				"location": [ -1000.814458810684, -1000.0414948140269, 700.00662778157982 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "656565FF"
+			}
+		},
+		{
+			"itemId": 35569,
+			"name": "Fluffy Pancakes",
+			"transform":
+			{
+				"location": [ 1737.4032331491067, 17.209814141933535, 784.11990400875516 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 37359,
+			"name": "Ivy Curtain",
+			"transform":
+			{
+				"location": [ 1804.151041620481, 368.95486776376237, 1211.1963590386895 ],
+				"rotation": [ -0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 37359,
+			"name": "Ivy Curtain",
+			"transform":
+			{
+				"location": [ 1504.1969714956347, 367.71699545891448, 1210.9118814329624 ],
+				"rotation": [ -0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 37364,
+			"name": "Simple Arched Window",
+			"transform":
+			{
+				"location": [ 2000.0026127968024, 187.2090682985494, 804.79397485857237 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 12086,
+			"name": "Alpine Tea Set",
+			"transform":
+			{
+				"location": [ 988.29025156743126, 170.45518240356179, 822.62577487387705 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654746 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 12090,
+			"name": "Cake Tray",
+			"transform":
+			{
+				"location": [ 987.76249747615975, -182.82397588816067, 821.02534566718498 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ -981.70296547424641, -406.29298686871817, 0.0045440995162077218 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/VariedWoodInteriorWall/VariedWoodInteriorWall.VariedWoodInteriorWall"
+			}
+		},
+		{
+			"itemId": 30381,
+			"name": "Trophy of Light",
+			"transform":
+			{
+				"location": [ 200.0441808405518, 1399.9960443232069, 977.9188520536029 ],
+				"rotation": [ 0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ -1779.1208772920249, -406.29298686871817, -0.0040728705937392515 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/VariedWoodInteriorWall/VariedWoodInteriorWall.VariedWoodInteriorWall"
+			}
+		},
+		{
+			"itemId": 35793,
+			"name": "Trophy of Eternal Darkness",
+			"transform":
+			{
+				"location": [ -373.71277326297576, 1252.8552728977299, 822.00873108920814 ],
+				"rotation": [ 0, 0, -0.94117601525637062, 0.33791671800332695 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 35794,
+			"name": "Trophy of Divine Light",
+			"transform":
+			{
+				"location": [ 358.93911209440836, 1256.2223797082834, 817.1136784588507 ],
+				"rotation": [ 0, 0, 0.99026806874157025, 0.13917310096006527 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ 1381.2709195534471, 390.5297431132866, 0.0025939930009475131 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/GladeInteriorWall/GladeInteriorWall.GladeInteriorWall"
+			}
+		},
+		{
+			"itemId": 12098,
+			"name": "Display Stand",
+			"transform":
+			{
+				"location": [ 357.60782581296087, 1255.1494669908868, 699.9912110085827 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 12098,
+			"name": "Display Stand",
+			"transform":
+			{
+				"location": [ -375.48750240311199, 1256.1396674384398, 700.00473224171276 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ -606.55999755859375, 1313.86767578125, 699.9951244002317 ],
+				"rotation": [ -1.2844992321697156e-10, -1.6739957977737566e-10, -0.9659258262890682, 0.25881904510252046 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/AlpineInnerWall/AlpineInnerWall.AlpineInnerWall"
+			}
+		},
+		{
+			"itemId": 28971,
+			"name": "Garment Rack",
+			"transform":
+			{
+				"location": [ -529.67843276303495, 727.59634002105099, -0.0027439249216194986 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 15778,
+			"name": "Tier 4 Aquarium",
+			"transform":
+			{
+				"location": [ 3.7395005128560399, -1388.8887466440403, 494.98697790891094 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ 576.86500007800339, 809.99909076082486, -0.0082000126641568142 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/StormBlueInteriorWall/StormBlueInteriorWall.StormBlueInteriorWall"
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ 798.14713340183312, -599.71442021519954, -0.0047923747161347317 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/VariedWoodInteriorWall/VariedWoodInteriorWall.VariedWoodInteriorWall"
+			}
+		},
+		{
+			"itemId": 23892,
+			"name": "Verdant Partition",
+			"transform":
+			{
+				"location": [ 249.1203244361227, -1452.0126617499466, 499.66630027520733 ],
+				"rotation": [ 0, 0, 0.38268343236509084, 0.92387953251128629 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ 1156.4353074690446, -589.93902179436054, 0.0050033640786370471 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/GladeInteriorWall/GladeInteriorWall.GladeInteriorWall"
+			}
+		},
+		{
+			"itemId": 30422,
+			"name": "Slanted Wall",
+			"transform":
+			{
+				"location": [ 375.42627876839919, 993.40723094285408, 1.0851858596994077 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ 798.15608645617817, -999.04607273112788, 0.0077658169654405019 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/VariedWoodInteriorWall/VariedWoodInteriorWall.VariedWoodInteriorWall"
+			}
+		},
+		{
+			"itemId": 39409,
+			"name": "Waterfall Partition",
+			"transform":
+			{
+				"location": [ 1.9603111871294878, -1451.7206174452836, 502.42932159776433 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30422,
+			"name": "Slanted Wall",
+			"transform":
+			{
+				"location": [ 984.9257449080784, -376.80486972060396, -9.7048009368011847 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 30389,
+			"name": "Stage Curtain",
+			"transform":
+			{
+				"location": [ 997.42222063881638, -373.01117543974294, 845.75006329811254 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "2F3851FF"
+			}
+		},
+		{
+			"itemId": 39405,
+			"name": "Hannish Round Table",
+			"transform":
+			{
+				"location": [ 1699.256408551114, -22.709579387305439, 700 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "ACA8A2FF"
+			}
+		},
+		{
+			"itemId": 39405,
+			"name": "Hannish Round Table",
+			"transform":
+			{
+				"location": [ 1332.0570448560472, -30.346475040515742, 700 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "ACA8A2FF"
+			}
+		},
+		{
+			"itemId": 38598,
+			"name": "Sharlayan Rug",
+			"transform":
+			{
+				"location": [ 1538.1773031848866, 9.0665216474365593, 701.19875057628997 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 38596,
+			"name": "Sharlayan Chair",
+			"transform":
+			{
+				"location": [ 1666.1935859733126, -169.38117296178629, 700 ],
+				"rotation": [ 0, 0, -0.13052619222005157, 0.99144486137381016 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 38596,
+			"name": "Sharlayan Chair",
+			"transform":
+			{
+				"location": [ 1858.9750031369983, -9.8181194144454764, 701.15989863510094 ],
+				"rotation": [ 0, 0, 0.68835457569375391, 0.72537437101228786 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 38596,
+			"name": "Sharlayan Chair",
+			"transform":
+			{
+				"location": [ 1786.7802334170153, 165.68975076540323, 706.04786488540617 ],
+				"rotation": [ 0, 0, 0.94408902039278431, 0.32969064526278735 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 38596,
+			"name": "Sharlayan Chair",
+			"transform":
+			{
+				"location": [ 1355.6910323873074, -182.16573350603724, 701.11377648180758 ],
+				"rotation": [ 0, 0, 0.10452846326765391, 0.99452189536827307 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 38596,
+			"name": "Sharlayan Chair",
+			"transform":
+			{
+				"location": [ 1153.7963513310906, -33.530031806035566, 700 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 38596,
+			"name": "Sharlayan Chair",
+			"transform":
+			{
+				"location": [ 1237.9372702458038, 105.03943740847113, 700.29860580546301 ],
+				"rotation": [ 0, 0, -0.97904547248458396, 0.20364175114017746 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ 1206.3890659326712, -416.76834252225535, 700.00163239185747 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/LilyHillsInteriorWall/LilyHillsInteriorWall.LilyHillsInteriorWall"
+			}
+		},
+		{
+			"itemId": 39406,
+			"name": "Hannish Table Lamp",
+			"transform":
+			{
+				"location": [ 1698.3573215509402, -22.884952281715712, 780.31132294554072 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ 1813.9174861636682, -418.6250547977246, 699.99645098219048 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/LilyHillsInteriorWall/LilyHillsInteriorWall.LilyHillsInteriorWall"
+			}
+		},
+		{
+			"itemId": 39406,
+			"name": "Hannish Table Lamp",
+			"transform":
+			{
+				"location": [ 1330.4069966502341, -27.227085009499557, 780.22799005553054 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 24518,
+			"name": "Pastry Cupboard",
+			"transform":
+			{
+				"location": [ 1743.3099903400657, 319.92377199019313, 700 ],
+				"rotation": [ 0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "6E3D24FF"
+			}
+		},
+		{
+			"itemId": 24518,
+			"name": "Pastry Cupboard",
+			"transform":
+			{
+				"location": [ 1296.8291809713, 318.96315461620895, 700 ],
+				"rotation": [ 0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "6E3D24FF"
+			}
+		},
+		{
+			"itemId": 35579,
+			"name": "Restaurant Showcase",
+			"transform":
+			{
+				"location": [ 1522.8831065246316, 312.75861499255342, 700 ],
+				"rotation": [ 0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ 1207.5768007944698, -448.99942068706201, 700.0039414315587 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/GladeInteriorWall/GladeInteriorWall.GladeInteriorWall"
+			}
+		},
+		{
+			"itemId": 21107,
+			"name": "Blank Glade Partition",
+			"transform":
+			{
+				"location": [ 1813.3041668248679, -449.66319588630211, 699.99880207602109 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/GladeInteriorWall/GladeInteriorWall.GladeInteriorWall"
+			}
+		},
+		{
+			"itemId": 39379,
+			"name": "Flower Boucage",
+			"transform":
+			{
+				"location": [ 997.51308512048627, 0.65006606370418751, 821.64801699854729 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21106,
+			"name": "Blank Riviera Partition",
+			"transform":
+			{
+				"location": [ 1179.6034736795873, 397.83192507288913, 699.99099811541055 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/LilyHillsInteriorWall/LilyHillsInteriorWall.LilyHillsInteriorWall"
+			}
+		},
+		{
+			"itemId": 21106,
+			"name": "Blank Riviera Partition",
+			"transform":
+			{
+				"location": [ 1481.7580382782339, 398.82888629209413, 699.99573314835868 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"material": "/Game/HouseAssets/Wallpaper/LilyHillsInteriorWall/LilyHillsInteriorWall.LilyHillsInteriorWall"
+			}
+		},
+		{
+			"itemId": 6660,
+			"name": "Gridanian Cityscape",
+			"transform":
+			{
+				"location": [ -1465.2815803691574, -381.28478884278917, 282.26082613925001 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7979,
+			"name": "Planter Partition",
+			"transform":
+			{
+				"location": [ -981.05383432629628, 248.74463625396521, -0.0065250516049647021 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6644,
+			"name": "Potted Axilflower",
+			"transform":
+			{
+				"location": [ -1422.5506135706205, 125.6911756830749, 133.88394230684978 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7979,
+			"name": "Planter Partition",
+			"transform":
+			{
+				"location": [ -1904.0015064299475, -284.45597536691179, -0.0073744528590180452 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 33278,
+			"name": "Hand-poured Coffee",
+			"transform":
+			{
+				"location": [ -1756.8067566867396, -23.598100220849929, 67.917328680643024 ],
+				"rotation": [ -0, 0, -0.97723110646267897, 0.21217767215644615 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6623,
+			"name": "Glade Sideboard",
+			"transform":
+			{
+				"location": [ -1682.0895289423652, 12.23802993514704, 0.0041047213489708821 ],
+				"rotation": [ 0, 0, 0.70710678118654768, 0.70710678118654746 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6535,
+			"name": "Manor Couch",
+			"transform":
+			{
+				"location": [ -1554.0715666579283, 0.035888245473707059, -0.0073460003284367041 ],
+				"rotation": [ 0, 0, 0.71630194342465447, 0.69779045984167998 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "E4DFD0FF"
+			}
+		},
+		{
+			"itemId": 7086,
+			"name": "Ahriman Vase",
+			"transform":
+			{
+				"location": [ -862.49115216645453, 710.28751690689398, 320.22262701714635 ],
+				"rotation": [ 0, 0, 0.57357643635104583, 0.81915204428899191 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 33283,
+			"name": "Low Bookshelf",
+			"transform":
+			{
+				"location": [ -1414.825146421935, 3.3468628322934793, -0.00026322019521153942 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "4F2D1FFF"
+			}
+		},
+		{
+			"itemId": 9726,
+			"name": "Glade Tea Set",
+			"transform":
+			{
+				"location": [ 1708.6247821624902, -80.562048008451498, 793.77028520861643 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7961,
+			"name": "Afternoon Tea Set",
+			"transform":
+			{
+				"location": [ 1318.5961411005665, -71.540809726149433, 779.59382677487974 ],
+				"rotation": [ -0, 0, -0.97437006478523536, 0.22495105434386495 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 37359,
+			"name": "Ivy Curtain",
+			"transform":
+			{
+				"location": [ 1209.8815038256744, 365.1137029304287, 1211.938161588314 ],
+				"rotation": [ 0, 0, -1, 2.8327694488239898e-16 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 33278,
+			"name": "Hand-poured Coffee",
+			"transform":
+			{
+				"location": [ 1304.2913331945683, 11.439575773637145, 791.50280395533309 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28990,
+			"name": "Cosmos Decoration",
+			"transform":
+			{
+				"location": [ 1510.8172271455628, -410.19049891600355, 1147.8417171660201 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6554,
+			"name": "Serpent Armoire",
+			"transform":
+			{
+				"location": [ 1380.1436805068499, 1121.2030985042989, 699.00026572541685 ],
+				"rotation": [ 0, 0, -1, 2.8327694488239898e-16 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6543,
+			"name": "Glade Bed",
+			"transform":
+			{
+				"location": [ 1803.1370114538624, 1024.9224513783083, 697.99823794500833 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6621,
+			"name": "Walnut Cartonnier",
+			"transform":
+			{
+				"location": [ 1936.2938991817678, 867.48722388503654, 700.00658996622042 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "836969FF"
+			}
+		},
+		{
+			"itemId": 6613,
+			"name": "Walnut Dining Table",
+			"transform":
+			{
+				"location": [ 1906.4606718439093, 626.59823700877052, 699.99808782688808 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "781A1AFF"
+			}
+		},
+		{
+			"itemId": 35566,
+			"name": "Candlelit Sundries",
+			"transform":
+			{
+				"location": [ 1917.7956409712051, 884.97874580233747, 772.50430425379147 ],
+				"rotation": [ 0, 0, 0.36650122672429769, 0.93041756798202435 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6513,
+			"name": "Riviera Chair",
+			"transform":
+			{
+				"location": [ 1780.0057507113058, 658.43986117816462, 699.99914064916004 ],
+				"rotation": [ 0, 0, -0.5299192642332049, 0.84804809615642596 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 32203,
+			"name": "Goobbue Lamp",
+			"transform":
+			{
+				"location": [ 1959.3876056072047, 867.27037784220977, 779.34462085624148 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 27286,
+			"name": "Crystarium Teapot",
+			"transform":
+			{
+				"location": [ 1911.2696999844832, 569.40356050508137, 780.23882742721048 ],
+				"rotation": [ 0, 0, -0.80125381269106133, 0.59832460057065817 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7971,
+			"name": "Encyclopedia Eorzea",
+			"transform":
+			{
+				"location": [ 1930.7804222372142, 685.87483045573958, 781.30936947110024 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6679,
+			"name": "Oasis Rug",
+			"transform":
+			{
+				"location": [ 1842.3176531120614, 699.30501867704493, 699.99931872589013 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 0,
+			"name": "Hydaelyn,as We Know Her",
+			"transform":
+			{
+				"location": [ 1030.4609590097502, 622.11092937076489, 938.92032370856691 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 14045,
+			"name": "Orchestrion",
+			"transform":
+			{
+				"location": [ 732.27303710672857, -467.17073332906165, 0.0014484582126656168 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 24525,
+			"name": "Red Carpet",
+			"transform":
+			{
+				"location": [ 2.9550063717940276, 852.38388603076567, -0.0060531945106548548 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "181937FF"
+			}
+		},
+		{
+			"itemId": 24525,
+			"name": "Red Carpet",
+			"transform":
+			{
+				"location": [ 2.679332390016107, 253.41176535741317, -0.0051178741264892866 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "181937FF"
+			}
+		},
+		{
+			"itemId": 20751,
+			"name": "Porcelain Vase",
+			"transform":
+			{
+				"location": [ 1899.6041561309401, 299.89241107412118, -0.00161923619126668 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7156,
+			"name": "Mender Permit",
+			"transform":
+			{
+				"location": [ 604.55681115574589, 497.94045658829492, 0 ],
+				"rotation": [ -0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 16704,
+			"name": "Materia Melder Permit",
+			"transform":
+			{
+				"location": [ 452.45117927072369, 567.30003302297087, 0 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 24621,
+			"name": "Kojin Manservant Permit",
+			"transform":
+			{
+				"location": [ 502.34374739249006, 510.21745148479278, 0 ],
+				"rotation": [ 0, 0, 0.92387953251128663, 0.38268343236508984 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20732,
+			"name": "Hingan Sideboard",
+			"transform":
+			{
+				"location": [ 1920.6161692263515, 133.1248479118691, -0.00068444869741115816 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 15776,
+			"name": "Tier 2 Aquarium",
+			"transform":
+			{
+				"location": [ 1910.4184607801421, 133.52781564093496, 76.29722382707871 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28995,
+			"name": "Apron Rack",
+			"transform":
+			{
+				"location": [ 2000.5320556128604, -109.59185302546409, 225.11370800316635 ],
+				"rotation": [ 0, -0, 0.70710678131856031, 0.70710678105453484 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 33273,
+			"name": "Country Dining Set",
+			"transform":
+			{
+				"location": [ 1545.9894362266084, 200.29644848110013, 0.0066542121768419461 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "ACA8A2FF"
+			}
+		},
+		{
+			"itemId": 33273,
+			"name": "Country Dining Set",
+			"transform":
+			{
+				"location": [ 1544.7903269537092, -95.669444411284445, 0.0091534681193599522 ],
+				"rotation": [ 0, 0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "ACA8A2FF"
+			}
+		},
+		{
+			"itemId": 32212,
+			"name": "Shakshouka Pot",
+			"transform":
+			{
+				"location": [ 1564.6132203270722, -20.886350987765947, 86.77460263864802 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21822,
+			"name": "Bread Basket",
+			"transform":
+			{
+				"location": [ 1529.3303189759695, -100.25064761069214, 98.751248967117277 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 17021,
+			"name": "Riviera Breakfast",
+			"transform":
+			{
+				"location": [ 1555.5814750559255, -189.96872043133948, 88.591509416725955 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 24515,
+			"name": "Bowl of Oden",
+			"transform":
+			{
+				"location": [ 1505.3113210185072, -146.70376453969334, 83.945836311076334 ],
+				"rotation": [ -0, 0, -0.38268343236508978, 0.92387953251128663 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 17967,
+			"name": "Oriental Sushi Lunch",
+			"transform":
+			{
+				"location": [ 1507.1802467663813, -30.205997940426109, 79.610061133474602 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30391,
+			"name": "Tako-yaki Boat",
+			"transform":
+			{
+				"location": [ 1519.0894618960467, 135.3656460443373, 85.065781203951303 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6681,
+			"name": "Oasis Leaf Rug",
+			"transform":
+			{
+				"location": [ 1546.0465527281801, 55.221209174373627, 0.0069511962268728224 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 33259,
+			"name": "Grocery Counter Cart",
+			"transform":
+			{
+				"location": [ 1257.5673086468134, -588.54610536455448, 0.00066565883243944156 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7072,
+			"name": "Cooking Stove",
+			"transform":
+			{
+				"location": [ 1378.0882740320187, -1083.4020404452947, 0.0090093955687855099 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 27285,
+			"name": "Crystarium Kitchen Hanger",
+			"transform":
+			{
+				"location": [ 1702.3420959442706, -1200.6436082899081, 239.36389606615506 ],
+				"rotation": [ 0, -0, 9.176480415564979e-07, 0.99999999999957889 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21835,
+			"name": "Kitchen Hanger",
+			"transform":
+			{
+				"location": [ 1847.6451375380987, -1200.7216593639, 252.56915793303295 ],
+				"rotation": [ -0, 0, -0.00019531248882427904, 0.99999998092651565 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 24509,
+			"name": "Steppe Kitchen",
+			"transform":
+			{
+				"location": [ 1835.4955802554684, -1010.7934441414172, -0.00055386928321956436 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "ACA8A2FF"
+			}
+		},
+		{
+			"itemId": 12095,
+			"name": "Glade Half Partition",
+			"transform":
+			{
+				"location": [ 1932.183675156846, -982.17620311453368, 0.0010108927566545895 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 12095,
+			"name": "Glade Half Partition",
+			"transform":
+			{
+				"location": [ 1931.5315877960181, -600.74919679714196, 0.0037334045750504908 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 23891,
+			"name": "Mounted Plate Rack",
+			"transform":
+			{
+				"location": [ 2000.4618641796726, -1000.0540646034942, 268.83526716671685 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "ACA8A2FF"
+			}
+		},
+		{
+			"itemId": 33275,
+			"name": "Icebox",
+			"transform":
+			{
+				"location": [ 1837.3911597639651, -818.10758707240427, 1.2317075948889666 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "ACA8A2FF"
+			}
+		},
+		{
+			"itemId": 21828,
+			"name": "Vegetable Basket",
+			"transform":
+			{
+				"location": [ 1837.6770190001723, -817.03293868754997, 109.11979495383017 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28967,
+			"name": "Wine Rack",
+			"transform":
+			{
+				"location": [ 1904.3440542813205, -812.791835902137, 156.58461655650379 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 23882,
+			"name": "Spice Rack",
+			"transform":
+			{
+				"location": [ 1947.9160265514779, -694.48254079348681, 149.83297971043623 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "451511FF"
+			}
+		},
+		{
+			"itemId": 22569,
+			"name": "Southern Kitchen",
+			"transform":
+			{
+				"location": [ 1854.5404043841097, -596.79404849698255, 0.0052464817098382601 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "ACA8A2FF"
+			}
+		},
+		{
+			"itemId": 13072,
+			"name": "Manor Counter",
+			"transform":
+			{
+				"location": [ 1886.4526606105624, -325.84832710393641, 0.0061010605519459518 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "ACA8A2FF"
+			}
+		},
+		{
+			"itemId": 15977,
+			"name": "Spirits Collection",
+			"transform":
+			{
+				"location": [ 1910.5438912106731, -362.42732460521967, 176.33550467355272 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 15977,
+			"name": "Spirits Collection",
+			"transform":
+			{
+				"location": [ 1900.1246771356412, -282.71957323218817, 177.1293973639485 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 27295,
+			"name": "Sandwich Basket",
+			"transform":
+			{
+				"location": [ 1849.9888611267304, -471.81990850923842, 103.76658642701639 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 27277,
+			"name": "Grocery Bag",
+			"transform":
+			{
+				"location": [ 1928.1793911669806, -556.27996737702006, 148.56843838235602 ],
+				"rotation": [ 0, 0, 0.96923090970675441, 0.24615329302899319 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 27277,
+			"name": "Grocery Bag",
+			"transform":
+			{
+				"location": [ 1930.9712860835782, -528.64621554671874, 149.49596770719654 ],
+				"rotation": [ 0, 0, 0.97029572627599658, 0.2419218955996677 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 38617,
+			"name": "Countertop Coffee Service",
+			"transform":
+			{
+				"location": [ 1765.8612315037976, -1119.3179239925075, 85.849090437401969 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 29683,
+			"name": "Siphon Coffee Brewer",
+			"transform":
+			{
+				"location": [ 1798.8185992564897, -1137.6460851841005, 85.965124576338425 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28988,
+			"name": "Milk Carton",
+			"transform":
+			{
+				"location": [ 1721.0295500681966, -1125.788261102748, 89.640041937748137 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6661,
+			"name": "Ul'dahn Cityscape",
+			"transform":
+			{
+				"location": [ -994.81123153591182, 374.70071720135286, 245.92091912980516 ],
+				"rotation": [ -0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28639,
+			"name": "Leather Sofa",
+			"transform":
+			{
+				"location": [ 1246.8502091195467, -608.721693124073, 699.99597282855143 ],
+				"rotation": [ -0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "1E1E1EFF"
+			}
+		},
+		{
+			"itemId": 28639,
+			"name": "Leather Sofa",
+			"transform":
+			{
+				"location": [ 1787.1699227068445, -609.66711994601565, 700.00995646335923 ],
+				"rotation": [ 0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "1E1E1EFF"
+			}
+		},
+		{
+			"itemId": 28639,
+			"name": "Leather Sofa",
+			"transform":
+			{
+				"location": [ 1897.8928322641118, -718.5298470129643, 700.0099851713137 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "1E1E1EFF"
+			}
+		},
+		{
+			"itemId": 28639,
+			"name": "Leather Sofa",
+			"transform":
+			{
+				"location": [ 1126.5419232981233, -712.60378200641401, 699.991911290247 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "1E1E1EFF"
+			}
+		},
+		{
+			"itemId": 12095,
+			"name": "Glade Half Partition",
+			"transform":
+			{
+				"location": [ 1813.5092717079749, -514.27135819128637, 660.28921656277078 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 12095,
+			"name": "Glade Half Partition",
+			"transform":
+			{
+				"location": [ 1207.5319331598791, -506.4971770686991, 648.4105302537514 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20741,
+			"name": "Hingan Andon Lamp",
+			"transform":
+			{
+				"location": [ 1810.5857992510275, -518.14073884421146, 809.54314057638499 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20741,
+			"name": "Hingan Andon Lamp",
+			"transform":
+			{
+				"location": [ 1207.3467851383868, -506.76575618604164, 797.98044235893087 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 32225,
+			"name": "Rustic Chocobo Counter",
+			"transform":
+			{
+				"location": [ 1525.1815729076775, -1163.8531598461859, 700.00320603678836 ],
+				"rotation": [ -0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "1E1E1EFF"
+			}
+		},
+		{
+			"itemId": 39408,
+			"name": "Hannish Rug",
+			"transform":
+			{
+				"location": [ 1509.4849072596664, -879.30523965472162, 700 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 38602,
+			"name": "Sil'dihn Side Table",
+			"transform":
+			{
+				"location": [ 1711.2812470825372, -787.76232920257905, 704.4359678157781 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "000EA2FF"
+			}
+		},
+		{
+			"itemId": 38602,
+			"name": "Sil'dihn Side Table",
+			"transform":
+			{
+				"location": [ 1314.9797176416446, -789.84324011992703, 700.43382733039493 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "000EA2FF"
+			}
+		},
+		{
+			"itemId": 24521,
+			"name": "Potion Rack",
+			"transform":
+			{
+				"location": [ 1880.8660901786604, -1107.4682571922051, 691.93461634664425 ],
+				"rotation": [ 0, 0, 0.38268343236509034, 0.92387953251128629 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "451511FF"
+			}
+		},
+		{
+			"itemId": 33275,
+			"name": "Icebox",
+			"transform":
+			{
+				"location": [ 1889.3663553942131, -1112.0500058755711, 841.1536171249295 ],
+				"rotation": [ 0, 0, 0.38268343236509034, 0.92387953251128629 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "321919FF"
+			}
+		},
+		{
+			"itemId": 28972,
+			"name": "Amaurot Wall Lamp",
+			"transform":
+			{
+				"location": [ 1339.3871109160611, -1159.8699945521064, 852.5935161567636 ],
+				"rotation": [ 6.3745239660131519e-10, 6.3745313978353597e-10, 0.99999999999999978, 6.0825993925691601e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6634,
+			"name": "Manor Fireplace",
+			"transform":
+			{
+				"location": [ 1477.0073658683132, -1209.1265665367375, 799.47277512045525 ],
+				"rotation": [ -0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "2B2923FF"
+			}
+		},
+		{
+			"itemId": 6634,
+			"name": "Manor Fireplace",
+			"transform":
+			{
+				"location": [ 1580.2770158845997, -1209.2709957013067, 796.30568573187338 ],
+				"rotation": [ 0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "2B2923FF"
+			}
+		},
+		{
+			"itemId": 28972,
+			"name": "Amaurot Wall Lamp",
+			"transform":
+			{
+				"location": [ 1722.5148753458798, -1170.7788910400263, 856.84776126482768 ],
+				"rotation": [ -0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7970,
+			"name": "Wall Planter",
+			"transform":
+			{
+				"location": [ 1497.0852840332961, -1200.6413435158136, 984.78795899187537 ],
+				"rotation": [ 0, -0, 0.00012242906337690877, 0.99999999250556226 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7970,
+			"name": "Wall Planter",
+			"transform":
+			{
+				"location": [ 1638.6492372086886, -1200.6325930200042, 989.1116636395609 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7970,
+			"name": "Wall Planter",
+			"transform":
+			{
+				"location": [ 1356.1791977821272, -1200.664158203431, 994.58862477464481 ],
+				"rotation": [ 0, -0, 0.00012242906541084782, 0.99999999250556182 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6624,
+			"name": "Glade Drawer Table",
+			"transform":
+			{
+				"location": [ 1123.8154908826143, -1111.725370493027, 700.00590452972733 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "451511FF"
+			}
+		},
+		{
+			"itemId": 15977,
+			"name": "Spirits Collection",
+			"transform":
+			{
+				"location": [ 1105.9617539436338, -1123.1344604412973, 799.3748531802828 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 32205,
+			"name": "Tankard",
+			"transform":
+			{
+				"location": [ 1159.350382203879, -1137.1883618034276, 798.4712146599569 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "644216FF"
+			}
+		},
+		{
+			"itemId": 32205,
+			"name": "Tankard",
+			"transform":
+			{
+				"location": [ 1135.0948976285144, -1103.2466613503909, 798.3070415586534 ],
+				"rotation": [ 0, 0, 0.30901699437494751, 0.95105651629515364 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "644216FF"
+			}
+		},
+		{
+			"itemId": 6624,
+			"name": "Glade Drawer Table",
+			"transform":
+			{
+				"location": [ 1897.8436276206392, -951.70844741379699, 700.00525054867376 ],
+				"rotation": [ 0, 0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "622207FF"
+			}
+		},
+		{
+			"itemId": 28146,
+			"name": "Allagan Tomestone of Frivolity",
+			"transform":
+			{
+				"location": [ 1888.0744648079024, -908.38111180310148, 798.43645506920541 ],
+				"rotation": [ 0, 0, -0.3665012267242973, 0.93041756798202446 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30412,
+			"name": "Dwarven Floor Lamp",
+			"transform":
+			{
+				"location": [ 1637.9949539766249, -581.83558395636851, 700 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30412,
+			"name": "Dwarven Floor Lamp",
+			"transform":
+			{
+				"location": [ 1397.753463259276, -576.16286659445757, 701.09560268657992 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30412,
+			"name": "Dwarven Floor Lamp",
+			"transform":
+			{
+				"location": [ 1637.8626472406497, -658.4389571471462, 700.62597607833231 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30412,
+			"name": "Dwarven Floor Lamp",
+			"transform":
+			{
+				"location": [ 1398.4012274236354, -657.32625143720566, 701.45631179041141 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30412,
+			"name": "Dwarven Floor Lamp",
+			"transform":
+			{
+				"location": [ 1843.9935475898239, -664.89458627467297, 701.61272246174144 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30412,
+			"name": "Dwarven Floor Lamp",
+			"transform":
+			{
+				"location": [ 1180.6595247436001, -662.87493418403881, 700 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30412,
+			"name": "Dwarven Floor Lamp",
+			"transform":
+			{
+				"location": [ 1843.9170394464463, -851.2129783206874, 701.56288334215503 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30412,
+			"name": "Dwarven Floor Lamp",
+			"transform":
+			{
+				"location": [ 1180.9212885165216, -847.29011437424435, 704.58080795631804 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 32224,
+			"name": "Swag Valance",
+			"transform":
+			{
+				"location": [ 1818.6498983379456, -474.67601406582514, 971.03654737744625 ],
+				"rotation": [ 0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "234172FF"
+			}
+		},
+		{
+			"itemId": 32224,
+			"name": "Swag Valance",
+			"transform":
+			{
+				"location": [ 1203.4696943757817, -473.99202761310153, 970.38301939310497 ],
+				"rotation": [ -0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "234172FF"
+			}
+		},
+		{
+			"itemId": 6671,
+			"name": "Wall Chronometer",
+			"transform":
+			{
+				"location": [ 1015.0035834554017, -639.22778468629861, 962.61531950857136 ],
+				"rotation": [ -0, 0, -0.70699179218409858, 0.70722175149263944 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 37373,
+			"name": "Imitation Highland Window",
+			"transform":
+			{
+				"location": [ 2000.0012191843743, -972.03192503106243, 945.46940764147644 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "996E3FFF"
+			}
+		},
+		{
+			"itemId": 38583,
+			"name": "Wondrous Windoor",
+			"transform":
+			{
+				"location": [ 548.30729848777946, -1200.057350346741, 118.24482850636062 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 23895,
+			"name": "Towels",
+			"transform":
+			{
+				"location": [ -1456.4467226784193, 681.65774694760762, 893.1938782573751 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 8811,
+			"name": "Towel Hanger",
+			"transform":
+			{
+				"location": [ -1999.9394355673467, 200.32264499045749, 875.1498089887715 ],
+				"rotation": [ -0, 0, -0.70710678124153337, 0.70710678113156178 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 23893,
+			"name": "Bathroom Floor Tiles",
+			"transform":
+			{
+				"location": [ -1238.8456477090219, -120.93214162036026, 700 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "707326FF"
+			}
+		},
+		{
+			"itemId": 8783,
+			"name": "Shower Stand",
+			"transform":
+			{
+				"location": [ -1226.2137965730569, -359.26029824105331, 700 ],
+				"rotation": [ 0, 0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6577,
+			"name": "Glade Partition",
+			"transform":
+			{
+				"location": [ -1467.6787860230686, 0.59264743166680489, 700 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7958,
+			"name": "Riviera Wall Shelf",
+			"transform":
+			{
+				"location": [ -1228.8078064870576, -328.96317611766688, 875.4347997709292 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "615245FF"
+			}
+		},
+		{
+			"itemId": 23895,
+			"name": "Towels",
+			"transform":
+			{
+				"location": [ -1359.4765674612133, 682.46242414146502, 893.02255520899303 ],
+				"rotation": [ 0, 0, 0.80901699437494745, 0.58778525229247314 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 15151,
+			"name": "Chirurgeon's Curtain",
+			"transform":
+			{
+				"location": [ -1804.408676840033, 745.94050105342797, 700 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6577,
+			"name": "Glade Partition",
+			"transform":
+			{
+				"location": [ -1629.2167709999237, -358.77040297109517, 700 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6577,
+			"name": "Glade Partition",
+			"transform":
+			{
+				"location": [ -1467.2315001800484, -183.0377473931747, 700 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6577,
+			"name": "Glade Partition",
+			"transform":
+			{
+				"location": [ -1444.1277893007568, -358.37979544255677, 700 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6577,
+			"name": "Glade Partition",
+			"transform":
+			{
+				"location": [ -1227.2124795779946, -353.96282739748443, 700 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6577,
+			"name": "Glade Partition",
+			"transform":
+			{
+				"location": [ -1222.5797900680516, 738.68058313212737, 700 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6577,
+			"name": "Glade Partition",
+			"transform":
+			{
+				"location": [ -1424.6989990450172, 738.76352793921365, 700 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 23888,
+			"name": "Glass Jars",
+			"transform":
+			{
+				"location": [ -1286.181731999158, -295.48643779179838, 877.95973643468471 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "5F7558FF"
+			}
+		},
+		{
+			"itemId": 17960,
+			"name": "Doman Partition",
+			"transform":
+			{
+				"location": [ -1378.1715144542081, 350.21269406261558, 700 ],
+				"rotation": [ 0, 0, 0.42261826174070027, 0.90630778703664938 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6577,
+			"name": "Glade Partition",
+			"transform":
+			{
+				"location": [ -1804.0902106218286, -360.51619958388119, 700 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20752,
+			"name": "Fool's Portal",
+			"transform":
+			{
+				"location": [ -1728.2315457712355, -333.77073423603122, 933.92410770233153 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 22549,
+			"name": "Laundry Basket",
+			"transform":
+			{
+				"location": [ -1938.4663793587622, 885.64126872595489, 830.38783297965529 ],
+				"rotation": [ 0, 0, 0.38268343236509017, 0.92387953251128652 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6548,
+			"name": "Ash Cabinet",
+			"transform":
+			{
+				"location": [ -1953.0047211204403, 951.97554762516506, 700 ],
+				"rotation": [ 0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "6A4B37FF"
+			}
+		},
+		{
+			"itemId": 7983,
+			"name": "Riviera Doormat",
+			"transform":
+			{
+				"location": [ -1736.4017266693929, 302.48646513277174, 700 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 22555,
+			"name": "Glade Partition Door",
+			"transform":
+			{
+				"location": [ 1158.185860649882, -987.12950565385108, -0.0026070654343577316 ],
+				"rotation": [ 0, 0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 37363,
+			"name": "Trick Bookshelf Partition",
+			"transform":
+			{
+				"location": [ 1510.861783819372, -411.38092111953853, 699.99630919518154 ],
+				"rotation": [ -0, 0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		}
+	],
+	"properties":
+	{
+	}
+}
